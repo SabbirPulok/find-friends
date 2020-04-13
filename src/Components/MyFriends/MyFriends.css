@@ -1,0 +1,14 @@
+.MyFriend
+{
+    text-align: center;
+    padding-top: 10px;;
+}
+.Title
+{
+    background-image: linear-gradient(to bottom, CornflowerBlue 0%, blue 100%);
+    color: #fff;
+    padding: 9px 25px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}

@@ -1,0 +1,17 @@
+.card
+{
+    margin-left: 3px;
+    margin-right: 3px;
+    margin-bottom: 20px;
+    padding:10px;
+    border-right:5px solid blue;
+    border-bottom: 5px solid blue; 
+    border-radius: 8px;
+}
+.card-footer
+{
+    background-color: white;
+    border-top: none;
+    padding-bottom: 10px;
+    text-align: center;
+}
